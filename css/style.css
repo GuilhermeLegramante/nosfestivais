@@ -159,6 +159,14 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
 }
 
+#icone-facebook{
+  color: #3b5998;
+}
+
+#icone-youtube{
+  color: #CC181E;
+}
+
 #intro .carousel-container {
   display: flex;
   justify-content: center;
@@ -1354,6 +1362,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #18d26e;
   color: #fff;
 }
+
 
 #footer .footer-top h4 {
   font-size: 14px;
